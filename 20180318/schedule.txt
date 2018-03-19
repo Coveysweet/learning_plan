@@ -16,3 +16,7 @@
 
 	查看盘古开发板使用手册，看完第七章 串口简介，在电脑上 用SecureCRT看的串口数据好
 像有点问题，还在查看代码找找是哪里出了问题。
+
+
+ten minutes later:
+	SecureCRT设置问题，Mode里面要设置为new line mode
